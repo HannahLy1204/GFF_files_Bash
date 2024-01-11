@@ -1,0 +1,76 @@
+Homo_sapiens.GRCh38.110.chromosome.1.gff3 is already downloaded and unzipped. Ready to be analyzed.
+
+Feature count chromosome 1
+-------------------------------
+  16825 biological_region
+  83739 CDS
+      1 chromosome
+ 153537 exon
+  15285 five_prime_UTR
+   2096 gene
+   7207 lnc_RNA
+    158 miRNA
+   9858 mRNA
+    192 ncRNA
+   2263 ncRNA_gene
+   1300 pseudogene
+   1300 pseudogenic_transcript
+     21 rRNA
+     14 scRNA
+     68 snoRNA
+    220 snRNA
+  19128 three_prime_UTR
+   3382 transcript
+     44 unconfirmed_transcript
+ 
+Top 10: chromosome 1:
+--------------------------
+ 
+>>transcriptIDs with the highest number of exon:
+Transcript ENST00000698833 >>> #exon:143 gene:ENSG00000162825 NBPF member 20 [Source:HGNC Symbol%3BAcc:HGNC:32000]
+Transcript ENST00000369373 >>> #exon:138 gene:ENSG00000162825 NBPF member 20 [Source:HGNC Symbol%3BAcc:HGNC:32000]
+Transcript ENST00000680850 >>> #exon:116 gene:ENSG00000154358 obscurin%2C cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol%3BAcc:HGNC:15719]
+Transcript ENST00000570156 >>> #exon:116 gene:ENSG00000154358 obscurin%2C cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol%3BAcc:HGNC:15719]
+Transcript ENST00000662438 >>> #exon:110 gene:ENSG00000154358 obscurin%2C cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol%3BAcc:HGNC:15719]
+Transcript ENST00000271588 >>> #exon:107 gene:ENSG00000143341 hemicentin 1 [Source:HGNC Symbol%3BAcc:HGNC:19194]
+Transcript ENST00000660292 >>> #exon:106 gene:ENSG00000198626 ryanodine receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:10484]
+Transcript ENST00000375254 >>> #exon:106 gene:ENSG00000127481 ubiquitin protein ligase E3 component n-recognin 4 [Source:HGNC Symbol%3BAcc:HGNC:30313]
+Transcript ENST00000659194 >>> #exon:105 gene:ENSG00000198626 ryanodine receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:10484]
+Transcript ENST00000422127 >>> #exon:105 gene:ENSG00000154358 obscurin%2C cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol%3BAcc:HGNC:15719]
+ 
+>>transcriptIDs with the highest number of CDS:
+Transcript ENST00000698833 >>> #CDS:137 gene:ENSG00000162825 NBPF member 20 [Source:HGNC Symbol%3BAcc:HGNC:32000]
+Transcript ENST00000369373 >>> #CDS:137 gene:ENSG00000162825 NBPF member 20 [Source:HGNC Symbol%3BAcc:HGNC:32000]
+Transcript ENST00000680850 >>> #CDS:115 gene:ENSG00000154358 obscurin%2C cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol%3BAcc:HGNC:15719]
+Transcript ENST00000570156 >>> #CDS:115 gene:ENSG00000154358 obscurin%2C cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol%3BAcc:HGNC:15719]
+Transcript ENST00000662438 >>> #CDS:110 gene:ENSG00000154358 obscurin%2C cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol%3BAcc:HGNC:15719]
+Transcript ENST00000271588 >>> #CDS:107 gene:ENSG00000143341 hemicentin 1 [Source:HGNC Symbol%3BAcc:HGNC:19194]
+Transcript ENST00000660292 >>> #CDS:106 gene:ENSG00000198626 ryanodine receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:10484]
+Transcript ENST00000375254 >>> #CDS:106 gene:ENSG00000127481 ubiquitin protein ligase E3 component n-recognin 4 [Source:HGNC Symbol%3BAcc:HGNC:30313]
+Transcript ENST00000659194 >>> #CDS:105 gene:ENSG00000198626 ryanodine receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:10484]
+Transcript ENST00000366574 >>> #CDS:105 gene:ENSG00000198626 ryanodine receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:10484]
+ 
+>>transcriptIDs with the highest number of five_prime_UTR:
+Transcript ENST00000617010 >>> #five_prime_UTR:62 gene:ENSG00000271425 NBPF member 10 [Source:HGNC Symbol%3BAcc:HGNC:31992]
+Transcript ENST00000616058 >>> #five_prime_UTR:16 gene:ENSG00000094975 SUN domain containing ossification factor [Source:HGNC Symbol%3BAcc:HGNC:1240]
+Transcript ENST00000415775 >>> #five_prime_UTR:14 gene:ENSG00000033122 leucine rich repeat containing 7 [Source:HGNC Symbol%3BAcc:HGNC:18531]
+Transcript ENST00000706883 >>> #five_prime_UTR:11 gene:ENSG00000067208 ecotropic viral integration site 5 [Source:HGNC Symbol%3BAcc:HGNC:3501]
+Transcript ENST00000541990 >>> #five_prime_UTR:11 gene:ENSG00000169231 thrombospondin 3 [Source:HGNC Symbol%3BAcc:HGNC:11787]
+Transcript ENST00000413811 >>> #five_prime_UTR:10 gene:ENSG00000000460 chromosome 1 open reading frame 112 [Source:HGNC Symbol%3BAcc:HGNC:25565]
+Transcript ENST00000706287 >>> #five_prime_UTR:9 gene:ENSG00000085832 epidermal growth factor receptor pathway substrate 15 [Source:HGNC Symbol%3BAcc:HGNC:3419]
+Transcript ENST00000699314 >>> #five_prime_UTR:9 gene:ENSG00000162434 Janus kinase 1 [Source:HGNC Symbol%3BAcc:HGNC:6190]
+Transcript ENST00000698196 >>> #five_prime_UTR:9 gene:ENSG00000269713 NBPF member 9 [Source:HGNC Symbol%3BAcc:HGNC:31991]
+Transcript ENST00000615329 >>> #five_prime_UTR:9 gene:ENSG00000136643 ribosomal protein S6 kinase C1 [Source:HGNC Symbol%3BAcc:HGNC:10439]
+ 
+>>transcriptIDs with the highest number of three_prime_UTR:
+Transcript ENST00000609119 >>> #three_prime_UTR:44 gene:ENSG00000198626 ryanodine receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:10484]
+Transcript ENST00000697178 >>> #three_prime_UTR:41 gene:ENSG00000143669 lysosomal trafficking regulator [Source:HGNC Symbol%3BAcc:HGNC:1968]
+Transcript ENST00000679417 >>> #three_prime_UTR:39 gene:ENSG00000081248 calcium voltage-gated channel subunit alpha1 S [Source:HGNC Symbol%3BAcc:HGNC:1397]
+Transcript ENST00000703142 >>> #three_prime_UTR:38 gene:ENSG00000198793 mechanistic target of rapamycin kinase [Source:HGNC Symbol%3BAcc:HGNC:3942]
+Transcript ENST00000706241 >>> #three_prime_UTR:37 gene:ENSG00000135837 centrosomal protein 350 [Source:HGNC Symbol%3BAcc:HGNC:24238]
+Transcript ENST00000429851 >>> #three_prime_UTR:36 gene:ENSG00000135837 centrosomal protein 350 [Source:HGNC Symbol%3BAcc:HGNC:24238]
+Transcript ENST00000418229 >>> #three_prime_UTR:36 gene:ENSG00000135837 centrosomal protein 350 [Source:HGNC Symbol%3BAcc:HGNC:24238]
+Transcript ENST00000706262 >>> #three_prime_UTR:35 gene:ENSG00000135837 centrosomal protein 350 [Source:HGNC Symbol%3BAcc:HGNC:24238]
+Transcript ENST00000426639 >>> #three_prime_UTR:35 gene:ENSG00000171502 collagen type XXIV alpha 1 chain [Source:HGNC Symbol%3BAcc:HGNC:20821]
+Transcript ENST00000635193 >>> #three_prime_UTR:33 gene:ENSG00000060718 collagen type XI alpha 1 chain [Source:HGNC Symbol%3BAcc:HGNC:2186]
+ 
